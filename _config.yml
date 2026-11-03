@@ -1,0 +1,13 @@
+title: 'ChatGPT价格表 2026：Plus 多少钱一个月、各地区官方价和国内价'
+description: 'ChatGPT价格表（2026-10）：官方各档月费、13 个地区 App Store 标价、税费、按年按月怎么算、价格变动记录；国内可在瑶瑶ai训练师商城 ¥129 开 Plus（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/jiage"
